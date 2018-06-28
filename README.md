@@ -18,4 +18,5 @@ This is a Realtime Chat Application made with Laravel5.6,Socket.io and redis
  9.Start the redis Server :node server.js<br/>
  10.Enjoy the APP<br/>
  
+ Working Demo: https://www.youtube.com/watch?v=AMgYpjFXnWo
  <h2>If you liked my effort dont forget to star the repo</h2>
